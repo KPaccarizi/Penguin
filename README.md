@@ -14,3 +14,4 @@ Welcome to the Penguin Animation Project! This project features a cute penguin a
 - **Greeting Message**: Displays a "Hi!" message above the penguin when the mouse is near.
 
 
+![Penguin Animation](penguin.gif)
